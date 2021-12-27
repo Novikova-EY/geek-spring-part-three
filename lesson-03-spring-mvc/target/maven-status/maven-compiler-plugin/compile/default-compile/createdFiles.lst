@@ -1,0 +1,7 @@
+ru\geekbrains\controller\NotFoundException.class
+ru\geekbrains\persist\ProductRepositoryImpl.class
+ru\geekbrains\AppConfig.class
+ru\geekbrains\WebInitializer.class
+ru\geekbrains\persist\Product.class
+ru\geekbrains\persist\ProductRepository.class
+ru\geekbrains\controller\ProductController.class
